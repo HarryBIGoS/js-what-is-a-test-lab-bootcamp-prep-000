@@ -21,3 +21,5 @@ else {
   console.log("COME ON, BRUV")
 }
 
+
+console.log(message)
