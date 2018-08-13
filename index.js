@@ -15,7 +15,7 @@ else {
 
 
 if (height > 40) {
-  var height = 40;
+  var height = 20;
 }
 else {
   console.log("COME ON, BRUV")
